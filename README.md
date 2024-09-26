@@ -95,6 +95,6 @@ Contributions are welcome! Please follow these steps:
 5. Open a pull request.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/segunumoru1/CastAway-Cruise-Line-Travel-Again-App-Prediction/blob/master/LICENSE) file for more details.
 
 ---
